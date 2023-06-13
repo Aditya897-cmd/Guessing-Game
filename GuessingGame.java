@@ -49,7 +49,7 @@ public class GuessingGame {
         if (i == K) {
             System.out.println(
                     "You have exhausted"
-                            + " K trials.");
+                            + " 5 trials.");
 
             System.out.println(
                     "The number was " + number);
